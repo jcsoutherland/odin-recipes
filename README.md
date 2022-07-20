@@ -1,4 +1,3 @@
 # odin-recipes
 
-A simple project to display recipes
-Using my HTML skills
+A simple project to display recipes using my HTML skills
